@@ -1,0 +1,108 @@
+.text{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.font{
+    color: rgba(120, 14, 219, 0.767);  
+}
+
+.none{
+    height:65px;
+    width:160px;
+    border: 5px none rgba(14, 165, 170, 0.473);
+    border-radius: 20px;
+    color: blue;
+    font-size: 20px;
+    margin: 20px;
+    background-color: none;
+}
+
+.dotted{
+    height:65px;
+    width:160px;
+    border: 5px dotted rgb(43, 16, 219);
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:rgb(220, 17, 139) ;
+    margin: 20px;
+}
+
+
+.dashed{
+    height:65px;
+    width:160px;
+    border: 5px dashed rgb(57, 33, 128);
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:yellowgreen;
+    margin: 20px;
+    color: brown;
+}
+
+.solid{
+    height:65px;
+    width:160px;
+    border: 5px solid rgb(99, 176, 101) ; 
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:rgba(78, 74, 74, 0.411);
+    margin: 20px;
+    color:red ;
+}
+
+.double{
+    height:65px;
+    width:160px;
+    border: 5px double rgb(8, 9, 107);
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:rgb(220, 87, 34) ;
+    margin: 20px;
+    color: rgba(235, 231, 11, 0.925);
+}
+
+.groove{
+    height:65px;
+    width:160px;
+    border: 5px groove black;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:palevioletred ;
+    margin: 20px;
+    color: rgb(241, 232, 236);
+}
+
+.ridge{
+    height:65px;
+    width:160px;
+    border: 5px ridge rgb(49, 144, 179);
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:rgb(159, 207, 226) ;
+    margin: 20px;
+    color: rgb(245, 15, 53);
+}
+
+.inset{
+    height:65px;
+    width:160px;
+    border: 5px inset rgb(247, 8, 87);
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:rgba(207, 185, 60, 0.774) ;
+    margin: 20px;
+    color: rgba(158, 5, 247, 0.986);
+}
+
+.outset{
+    height:65px;
+    width:160px;
+    border: 5px outset rgb(89, 66, 239);
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:rgba(240, 221, 11, 0.884) ;
+    margin: 20px;
+    color: rgb(250, 104, 7);
+}
+
